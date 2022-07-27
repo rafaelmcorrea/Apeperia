@@ -30,6 +30,7 @@ li[aria-hidden='false'] { display:block ; }
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
+  display: block;
   width: 1px;
   height: 1px;
   color: transparent;
